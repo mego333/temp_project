@@ -1,1 +1,1 @@
-"# temp_project" 
+This is for thoughts, and practice code
